@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    margin: 0 auto;
+}
+.text{
+    font-size: 48px;
+}
+.p{
+    font-size: 18px;
+    margin-top: 24px;
+}
+.images{
+    display: flex;
+    margin: 0 auto;
+    margin-left: 450px;
+    margin-top: 63px;
+}
+.mac{
+    display: block;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.pro{
+    font-size: 48px;
+}
+.white{
+    color: #0071E3;
+    font-size: 24px;
+    margin-left: -200px;
+}
+.buy{
+    font-size: 48px;
+    margin-left: -130px;
+}
+.btns{
+    margin-top: 70px;
+}
+.one{
+    width: 155px;
+    height: 43px;
+    border: none;
+    border-radius: 10px;
+    background-color: #0071E3;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+.two{
+    width: 155px;
+    height: 43px;
+    border: none;
+    border-radius: 10px;
+    background-color: #CFE7FF;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #797979;
+    cursor: pointer;
+}
+.another{
+    margin-top: 40px;
+    display: block;
+}
+.first{
+    width: 321px;
+    height: 57px;
+    border: 2px solid #CFE7FF;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.active{
+    width: 321px;
+    height: 57px;
+    border: 2px solid #007FFF;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.r{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.e{
+    font-size: 14px;
+    margin-right: 20px;
+}
